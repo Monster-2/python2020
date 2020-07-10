@@ -1,3 +1,5 @@
+#Program for an elevator. Just made for fun.
+
 class Elevator():
     def __init__(self, floors):
         self.floors = floors
